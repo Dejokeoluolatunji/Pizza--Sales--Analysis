@@ -1,2 +1,2 @@
 # Pizza--Sales--Analysis
-Blacktech pizza sales dataset was analyzed to evaluate the sales trend across various indices, which enabled me arrive at actionable insights.
+This repository contains an in-depth analysis of Blacktech pizza's sales performance aiming to provide insights and strategies for enhancing revenue and customer satisnfaction.
