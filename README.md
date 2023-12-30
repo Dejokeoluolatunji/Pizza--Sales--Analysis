@@ -9,7 +9,7 @@ The Pizza type table contains detail on the pizza type in the pizza table includ
 
 <img width="866" alt="Pizza data model" src="https://github.com/Dejokeoluolatunji/Pizza--Sales--Analysis/assets/148403480/6052e420-a631-4405-bb05-004ce81a371b">
 
-![Pizza-Dashboarddd](https://github.com/Dejokeoluolatunji/Pizza--Sales--Analysis/assets/148403480/b797fd66-5a14-4659-bf65-65175c212c13)
+![Pizza-Dashboard](https://github.com/Dejokeoluolatunji/Pizza--Sales--Analysis/assets/148403480/62e2a4fd-78bc-4938-a8e9-93c1bce80b79)
 
 <img width="800" alt="Pizza (TOTAL SALES)" src="https://github.com/Dejokeoluolatunji/Pizza--Sales--Analysis/assets/148403480/fd4564d3-277b-431b-a755-057037213001">
 
