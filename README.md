@@ -1,6 +1,10 @@
 # Pizza--Sales--Analysis
 This repository contains an in-depth analysis of Pizza's sales performance,focusing on understanding and optimizing sales,aiming to provide insights and strategies for enhancing revenue and customer satisfaction. I handled missing values, corrected data types and removed duplicates. I also investigated sales trends, customer behavior and key performance indicators such as top selling pizzas, categories of pizza, peak sales periods whilst using visualizations and statistical measures. Furthermore, the identification of top selling pizza flavors/toppings and peak sales time/days/season was also done for optimization. All these led to data-driven recommendations as captured.
-
+The dataset contains a year's worth of sale from a pizza place. Dataset contain four table in CSV format.
+The Order table contain the date and time all pizza orders were placed.
+The Order Details table contains the different pizzas served with each other in the Order table and their quantities.
+The Pizzas table contains the size an price for each distinct pizza in the Order Detail table as well as its broader pizza type
+The Pizza type table contains detail on the pizza type in the pizza table including their names as it appears on the menu, the category it falls under, and the lists of ingredient.
 
 <img width="866" alt="Pizza data model" src="https://github.com/Dejokeoluolatunji/Pizza--Sales--Analysis/assets/148403480/6052e420-a631-4405-bb05-004ce81a371b">
 
