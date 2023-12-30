@@ -1,5 +1,6 @@
 # Pizza--Sales--Analysis
 This repository contains an in-depth analysis of Pizza's sales performance,focusing on understanding and optimizing sales,aiming to provide insights and strategies for enhancing revenue and customer satisfaction. I handled missing values, corrected data types and removed duplicates. I also investigated sales trends, customer behavior and key performance indicators such as top selling pizzas, categories of pizza, peak sales periods whilst using visualizations and statistical measures. Furthermore, the identification of top selling pizza flavors/toppings and peak sales time/days/season was also done for optimization. All these led to data-driven recommendations as captured.
+
 The dataset contains a year's worth of sale from a pizza place. Dataset contain four table in CSV format.
 The Order table contain the date and time all pizza orders were placed.
 The Order Details table contains the different pizzas served with each other in the Order table and their quantities.
@@ -16,7 +17,7 @@ The Pizza type table contains detail on the pizza type in the pizza table includ
 
 <img width="792" alt="Pizza (SALES BY CATEGORY)" src="https://github.com/Dejokeoluolatunji/Pizza--Sales--Analysis/assets/148403480/e0a9420e-a33d-4387-88fe-547ccb1a59bd">
 
-<img width="567" alt="Pizza (HEAT MAP)" src="https://github.com/Dejokeoluolatunji/Pizza--Sales--Analysis/assets/148403480/f37621a0-4e90-45f0-b7d6-a6f0cbe9dc13">
+<img width="792" alt="Pizza  (TOTAL SALES BY SIZE)" src="https://github.com/Dejokeoluolatunji/Pizza--Sales--Analysis/assets/148403480/7c140945-833a-43f6-a849-77fde1448ba3">
 
 <img width="245" alt="Pizza  (TOP 5 SELLING PIZZAZ)" src="https://github.com/Dejokeoluolatunji/Pizza--Sales--Analysis/assets/148403480/5eb541c0-b9e8-423d-b61f-54cf43ad44b2">
 
@@ -27,6 +28,8 @@ The Pizza type table contains detail on the pizza type in the pizza table includ
 <img width="797" alt="Pizza  (ORDER BY HOUR)" src="https://github.com/Dejokeoluolatunji/Pizza--Sales--Analysis/assets/148403480/03b30efc-1256-4787-a8cc-bc611c86ebed">
 
 <img width="795" alt="Pizza  (ORDER BY TIME OF THE DAY)" src="https://github.com/Dejokeoluolatunji/Pizza--Sales--Analysis/assets/148403480/ffca7af0-0ff2-4b08-bf7a-8a835ba1a8ed">
+
+<img width="567" alt="Pizza (HEAT MAP)" src="https://github.com/Dejokeoluolatunji/Pizza--Sales--Analysis/assets/148403480/f37621a0-4e90-45f0-b7d6-a6f0cbe9dc13">
 
 ![Pizza-insight2](https://github.com/Dejokeoluolatunji/Pizza--Sales--Analysis/assets/148403480/2b1538f5-9f0f-40a7-8f27-132c42032e59)
 
